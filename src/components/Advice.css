@@ -1,0 +1,22 @@
+.centered-container {
+    width: 340px;
+    margin: 100px auto;
+    text-align: center;
+    background: grey;
+    padding: 40px;
+    box-sizing: border-box;
+    color: #CEE3E9;
+
+  }
+  h2{
+    color: #53FFAA;
+  }
+  .line {
+    width: 250px;
+  }
+  .click{
+    margin-top: 25px;
+  }
+  
+ 
+  
